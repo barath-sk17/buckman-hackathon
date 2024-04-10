@@ -47,7 +47,7 @@ To run the project, follow these steps:
 After installing the dependencies, run the Streamlit app:
 
 ```bash
-streamlit run app.py
+streamlit run app_exp.py
 ```
 
 This command will start the Streamlit server, and you can access the application in your web browser.
