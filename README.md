@@ -78,12 +78,13 @@ This command will start the Streamlit server, and you can access the application
 
 
 ### Visualization Preview
-- ![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/ad1f1c8e-bd4c-450b-80f3-3793a1a1a7c2)
-- ![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/d19da423-9ce4-48f1-a7bd-a58860afd40a)
-- ![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/ccfa22c2-9f49-47a0-9cdf-1c934ee715a5)
-- ![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/c22ba960-4117-4446-822d-35db56dc24e5)
-- ![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/3b30929d-a0ce-4eed-a33e-5127116cbfa6)
-- ![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/1dbac0d3-1aae-4710-9ba5-951155404f7e)
+###
+![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/ad1f1c8e-bd4c-450b-80f3-3793a1a1a7c2)
+![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/d19da423-9ce4-48f1-a7bd-a58860afd40a)
+![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/ccfa22c2-9f49-47a0-9cdf-1c934ee715a5)
+![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/c22ba960-4117-4446-822d-35db56dc24e5)
+![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/3b30929d-a0ce-4eed-a33e-5127116cbfa6)
+![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/1dbac0d3-1aae-4710-9ba5-951155404f7e)
 
 
 
@@ -95,11 +96,12 @@ This command will start the Streamlit server, and you can access the application
 
 
 ### Recommendation System Preview
-- ![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/5b411e03-83f9-4ae2-9aa1-bdafc8dab435)
-- ![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/3e4ee1a4-0a11-42a9-931a-ef89f6990f31)
-- ![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/63eb6f9f-07c8-4fc2-9254-000d440df51f)
-- ![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/417e7c1f-d738-4ac4-a869-b14503486a9c)
-- ![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/fd6011bd-31f4-476a-9a64-260387133dba)
-- ![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/8ef54715-e701-4e58-8007-736a193a3b0f)
-- ![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/6c089862-421c-4f19-a0c9-60608edabb54)
+###
+![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/5b411e03-83f9-4ae2-9aa1-bdafc8dab435)
+![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/3e4ee1a4-0a11-42a9-931a-ef89f6990f31)
+![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/63eb6f9f-07c8-4fc2-9254-000d440df51f)
+![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/417e7c1f-d738-4ac4-a869-b14503486a9c)
+![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/fd6011bd-31f4-476a-9a64-260387133dba)
+![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/8ef54715-e701-4e58-8007-736a193a3b0f)
+![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/6c089862-421c-4f19-a0c9-60608edabb54)
 
