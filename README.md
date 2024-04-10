@@ -25,13 +25,13 @@ To run the project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/investment-recommendation-system.git
+   git clone https://github.com/barath-sk17/buckman-hackathon.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd investment-recommendation-system
+   cd buckman-hackathon
    ```
 
 3. Install the required dependencies:
