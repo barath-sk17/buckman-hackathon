@@ -254,8 +254,7 @@ else:
     recommendation = generate_recommendation(new_data, data, scaler, label_encoders, nn_model, xgb_model, nn_accuracy, xgb_accuracy)
 
     # Display recommendation
-    st.subheader("Recommendation")
-    st.write("#### Return Earned :", recommendation)
+    st.write("### Return Earned :", recommendation)
 
 
     def plot_confusion_matrix(model, X_test, y_test, model_name):
