@@ -12,6 +12,7 @@ This project implements an investment recommendation system using machine learni
   - [Data Loading and Preprocessing](#data-loading-and-preprocessing)
   - [Model Training and Evaluation](#model-training-and-evaluation)
   - [Visualization](#visualization)
+  - [Visualization Preview](#visualization-preview)
   - [Recommendation Generation](#recommendation-generation)
 
 ## Introduction
@@ -72,7 +73,8 @@ This command will start the Streamlit server, and you can access the application
 
 - **Confusion Matrix**: Visualizes confusion matrices for demographic, employment, and investment analysis using Seaborn and Matplotlib.
 - **Feature Importance**: Displays feature importance plots for Neural Network and XGBoost models.
-- **Preview**:
+
+### Visualization Preview
 - ![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/ad1f1c8e-bd4c-450b-80f3-3793a1a1a7c2)
 - ![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/d19da423-9ce4-48f1-a7bd-a58860afd40a)
 - ![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/ccfa22c2-9f49-47a0-9cdf-1c934ee715a5)
