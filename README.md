@@ -11,6 +11,7 @@ This project implements an investment recommendation system using machine learni
 - [Functionality](#functionality)
   - [Data Loading and Preprocessing](#data-loading-and-preprocessing)
   - [Model Training and Evaluation](#model-training-and-evaluation)
+  - [PowerBI](#powerbi)
   - [Visualization](#visualization)
   - [Visualization Preview](#visualization-preview)
   - [Recommendation Generation](#recommendation-generation)
@@ -69,6 +70,11 @@ This command will start the Streamlit server, and you can access the application
 
 - **Model Training**: MLPClassifier models are trained for demographic, employment, and investment analysis.
 - **Model Evaluation**: The accuracy of each model is evaluated using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
+
+### PowerBI
+###
+![image](https://github.com/barath-sk17/buckman-hackathon/assets/127032804/ef4e6486-7e36-45a6-a61c-476c2206bc99)
+
 
 ### Visualization
 
